@@ -5,6 +5,7 @@
     "tags": [
       "IA"
     ],
+    "isVideo": false,
     "date": "2026-04-28T11:54:35.358Z"
   },
   {
@@ -13,6 +14,7 @@
     "tags": [
       "Decor"
     ],
+    "isVideo": true,
     "date": "2026-04-28T15:11:07.349Z"
   }
 ]
