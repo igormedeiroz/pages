@@ -202,5 +202,145 @@
   "tags": ["Mundo"],
   "isVideo": true,
   "date": "2026-05-14T00:00:00.000Z"
-}
+},
+    {
+    "title": "VOZ Colab | Criação de marcas e conteúdos on Instagram: \"Se a imperfeição é inevitável, por que não abraçá-la? Segundo artigo da @box1824, é o que as novas gerações estão fazendo.\"",
+    "url": "https://www.instagram.com/p/CyvkaL_Ly-9/?img_index=1&utm_source=substack&utm_medium=email",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2023-11-29T13:51:00.000Z"
+  },
+  {
+    "title": "100 Camera Angles, Shots and Movements in Filmmaking",
+    "url": "https://wolfcrow.com/100-camera-angles-shots-and-movements-in-filmmaking/?utm_source=substack&utm_medium=email",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2024-01-28T23:23:00.000Z"
+  },
+  {
+    "title": "Zine Making Resources — SARAH SHAY MIRK",
+    "url": "https://www.mirkwork.com/free-zines-to-download",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2025-01-16T16:40:00.000Z"
+  },
+  {
+    "title": "Biblioteca de Zines",
+    "url": "https://biblioteca-de-zines.vercel.app/",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2025-01-16T16:45:00.000Z"
+  },
+  {
+    "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "url": "https://victorwendt.notion.site/baucriativo",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2025-02-14T09:49:00.000Z"
+  },
+  {
+    "title": "jenny odell • projects",
+    "url": "https://www.jennyodell.com/projects.html#signsoflife",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2025-09-01T11:42:00.000Z"
+  },
+  {
+    "title": "Blotter Art: psicodelia, contracultura e colecionismo",
+    "url": "https://www.ismo.mov/blotter-art-psicodelia-contracultura-e-colecionismo/",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2026-01-28T09:05:00.000Z"
+  },
+  {
+    "title": "Photos of the Fascinating Things Women Keep in Their Bags",
+    "url": "https://www.vice.com/en/article/whats-inside-the-womens-bags-russia-876/",
+    "tags": ["Inspiração"],
+    "isVideo": false,
+    "date": "2026-01-26T18:00:00.000Z"
+  },
+  {
+    "title": "let's paint a cozy landscapes 🍁 Illustration tutorial.",
+    "url": "https://www.youtube.com/watch?v=IhFm5WhwiK0",
+    "tags": ["DIY"],
+    "isVideo": true,
+    "date": "2023-10-11T22:56:00.000Z"
+  },
+  {
+    "title": "Três motivos para você começar a ler literatura fantástica",
+    "url": "https://cristhianoaguiar.substack.com/p/tres-motivos-para-voce-comecar-a?utm_source=substack&utm_medium=email",
+    "tags": ["Literatura"],
+    "isVideo": false,
+    "date": "2026-01-07T09:11:00.000Z"
+  },
+  {
+    "title": "Listen to live Innsbruck radio on Radio Garden",
+    "url": "https://radio.garden/visit/innsbruck/9CjRC8Y6",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-17T12:01:00.000Z"
+  },
+  {
+    "title": "Livros Premiados · Home",
+    "url": "https://www.livrospremiados.com/",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-17T12:01:00.000Z"
+  },
+  {
+    "title": "Rainbow Hunt",
+    "url": "https://rainbowhunt.com/light.html?utm_source=substack&utm_medium=email",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-17T12:04:00.000Z"
+  },
+  {
+    "title": "Last.fm Collage Generator - Tapmusic",
+    "url": "https://www.tapmusic.net/",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-17T12:04:00.000Z"
+  },
+  {
+    "title": "Natural Language Playlist",
+    "url": "https://www.naturallanguageplaylist.com/",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-17T12:06:00.000Z"
+  },
+  {
+    "title": "Strange Maps",
+    "url": "https://bigthink.com/strange-maps/?paging=2&utm_source=substack&utm_medium=email#more",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2023-10-27T14:30:00.000Z"
+  },
+  {
+    "title": "Compress PDF",
+    "url": "https://pdf.io/compress/",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2024-01-23T08:51:00.000Z"
+  },
+  {
+    "title": "All Places in Lisbon, Portugal",
+    "url": "https://www.atlasobscura.com/things-to-do/lisbon-portugal/places?sort=recent",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2025-02-06T10:46:00.000Z"
+  },
+  {
+    "title": "Ambient Chaos",
+    "url": "https://neal.fun/ambient-chaos/?utm_source=substack&utm_medium=email",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2025-02-06T14:57:00.000Z"
+  },
+  {
+    "title": "An Ocean of Books",
+    "url": "https://artsexperiments.withgoogle.com/ocean-of-books?latitude=21.1401&longitude=61.3706&utm_campaign=teste-s1-s2-07-02-2025&utm_medium=newsletter&utm_source=the_news&zoom=8.39",
+    "tags": ["Cool sites"],
+    "isVideo": false,
+    "date": "2025-02-07T09:23:00.000Z"
+  }
 ]
