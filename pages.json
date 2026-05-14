@@ -188,5 +188,19 @@
     "tags": ["Internet"],
     "isVideo": false,
     "date": "2026-05-14T00:00:00.000Z"
-  }
+  },
+  {
+  "title": "A estética do algoritmo",
+  "url": "https://www.youtube.com/watch?v=KlY8m5eDiDM",
+  "tags": ["Sociedade"],
+  "isVideo": true,
+  "date": "2026-05-14T00:00:00.000Z"
+},
+{
+  "title": "NUTMEG, The Horrible History Behind The Popular Spice",
+  "url": "https://www.youtube.com/watch?v=9mqerkFWjKU",
+  "tags": ["Mundo"],
+  "isVideo": true,
+  "date": "2026-05-14T00:00:00.000Z"
+}
 ]
