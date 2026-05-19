@@ -764,5 +764,14 @@
     ],
     "isVideo": true,
     "date": "2026-05-15T16:27:45.536Z"
+  },
+  {
+    "title": "Towards a quieter, friendlier web • Cory Dransfeldt",
+    "url": "https://www.coryd.dev/posts/2024/towards-a-quieter-friendlier-web",
+    "tags": [
+      "Internet"
+    ],
+    "isVideo": false,
+    "date": "2026-05-19T08:36:59.024Z"
   }
 ]
